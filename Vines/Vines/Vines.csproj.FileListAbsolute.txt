@@ -1,0 +1,11 @@
+C:\Users\kyden\source\repos\Vines\Vines\bin\Debug\netcoreapp2.1\Vines.deps.json
+C:\Users\kyden\source\repos\Vines\Vines\bin\Debug\netcoreapp2.1\Vines.runtimeconfig.json
+C:\Users\kyden\source\repos\Vines\Vines\bin\Debug\netcoreapp2.1\Vines.runtimeconfig.dev.json
+C:\Users\kyden\source\repos\Vines\Vines\bin\Debug\netcoreapp2.1\Vines.dll
+C:\Users\kyden\source\repos\Vines\Vines\bin\Debug\netcoreapp2.1\Vines.pdb
+C:\Users\kyden\source\repos\Vines\Vines\obj\Debug\netcoreapp2.1\Vines.csprojAssemblyReference.cache
+C:\Users\kyden\source\repos\Vines\Vines\obj\Debug\netcoreapp2.1\Vines.csproj.CoreCompileInputs.cache
+C:\Users\kyden\source\repos\Vines\Vines\obj\Debug\netcoreapp2.1\Vines.AssemblyInfoInputs.cache
+C:\Users\kyden\source\repos\Vines\Vines\obj\Debug\netcoreapp2.1\Vines.AssemblyInfo.cs
+C:\Users\kyden\source\repos\Vines\Vines\obj\Debug\netcoreapp2.1\Vines.dll
+C:\Users\kyden\source\repos\Vines\Vines\obj\Debug\netcoreapp2.1\Vines.pdb
